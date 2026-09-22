@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg">#F8F9FA</color>
+    <color name="bg_item">#FFFFFF</color>
+    <color name="border_item">#E9ECEF</color>
+    <color name="text_primary">#1A1D23</color>
+    <color name="text_secondary">#6B7280</color>   
+    <color name="accent">#B91C1C</color> 
+    <color name="chip_bg">#F1F3F5</color>
+    <color name="chip_text">#374151</color>
+    <color name="ic_launcher_background">#FFFFFF</color>   
+</resources>

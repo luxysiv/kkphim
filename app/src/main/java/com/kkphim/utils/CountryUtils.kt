@@ -1,0 +1,41 @@
+package com.kkphim.utils
+
+object CountryUtils {
+    val list = listOf(
+        FilterItem("Việt Nam", "viet-nam"),
+        FilterItem("Trung Quốc", "trung-quoc"),
+        FilterItem("Thái Lan", "thai-lan"),
+        FilterItem("Hồng Kông", "hong-kong"),
+        FilterItem("Pháp", "phap"),
+        FilterItem("Đức", "duc"),
+        FilterItem("Hà Lan", "ha-lan"),
+        FilterItem("Mexico", "mexico"),
+        FilterItem("Thụy Điển", "thuy-dien"),
+        FilterItem("Philippines", "philippines"),
+        FilterItem("Đan Mạch", "dan-mach"),
+        FilterItem("Thụy Sĩ", "thuy-si"),
+        FilterItem("Ukraina", "ukraina"),
+        FilterItem("Hàn Quốc", "han-quoc"),
+        FilterItem("Âu Mỹ", "au-my"),
+        FilterItem("Ấn Độ", "an-do"),
+        FilterItem("Canada", "canada"),
+        FilterItem("Tây Ban Nha", "tay-ban-nha"),
+        FilterItem("Indonesia", "indonesia"),
+        FilterItem("Ba Lan", "ba-lan"),
+        FilterItem("Malaysia", "malaysia"),
+        FilterItem("Bồ Đào Nha", "bo-dao-nha"),
+        FilterItem("Nhật Bản", "nhat-ban"),
+        FilterItem("Đài Loan", "dai-loan"),
+        FilterItem("Anh", "anh"),
+        FilterItem("Nga", "nga"),
+        FilterItem("Úc", "uc"),
+        FilterItem("Brazil", "brazil"),
+        FilterItem("Ý", "y"),
+        FilterItem("Na Uy", "na-uy"),
+        FilterItem("Nam Phi", "nam-phi"),
+        FilterItem("Châu Phi", "chau-phi"),
+        FilterItem("UAE", "uae"),
+        FilterItem("Ả Rập Xê Út", "a-rap-xe-ut"),
+        FilterItem("Quốc Gia Khác", "quoc-gia-khac")
+    )
+}
